@@ -1,0 +1,23 @@
+# Data Handling & Math
+numpy
+pandas
+networkx
+
+# Visualization
+matplotlib
+folium
+streamlit
+streamlit-folium
+
+# Machine Learning
+scikit-learn
+xgboost
+tensorflow
+
+# API & Deployment
+flask
+requests
+
+# Optional GIS (Might require system headers in some environments)
+# rasterio
+# shap
