@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv
+venv/
+ENV/
+
+# Data & Models (Ignore large generated files if necessary)
+*.log
+.DS_Store
+
+# Streamlit
+.streamlit/
+
+# Local environment files
+.env
+.vscode/
